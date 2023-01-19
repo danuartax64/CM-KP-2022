@@ -25,4 +25,4 @@ or you can use your own sql account, just change it in auth.py, database_cctv.py
 4. Make new database with name db-app-cctv then copy content in db-app-cctv.mysql file, paste and run in phpmyadmin SQL code section
 5. Run main.py
 
-Make sure you use same network with the cctv
+Make sure you use same network with the cctv otherwise, it won't work
